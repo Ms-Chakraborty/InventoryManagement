@@ -22,13 +22,13 @@ A simple and modular console-based inventory management application written in J
 
 ## 📁 File Structure
 InventoryManagement
--**Main.java # CLI interaction and flow control**
--**Inventory.java # Inventory system with product management**
--**Product.java # Basic product class**
--**ProductWithObserver.java # Product subclass with observer support**
--**StockObserver.java # Observer interface**
--**StockManager.java # Observer implementation (receives alerts)**
--**README.md # Project documentation**
+- **Main.java # CLI interaction and flow control**
+- **Inventory.java # Inventory system with product management**
+- **Product.java # Basic product class**
+- **ProductWithObserver.java # Product subclass with observer support**
+- **StockObserver.java # Observer interface**
+- **StockManager.java # Observer implementation (receives alerts)**
+- **README.md # Project documentation**
 
 ---
 
